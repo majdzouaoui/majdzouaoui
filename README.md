@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my project repository!<br/>
-I'm <strong>Majd Zouaoui</strong>, a student and C programmer from Tunisia 🇹🇳. This is a simple console-based banking system written in pure C, designed as a learning project.
+I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student and C programmer from Tunisia 🇹🇳. This is a simple console-based banking system written in pure C, designed as a learning project.
 </p>
 
 ### 📫 Connect With Me
