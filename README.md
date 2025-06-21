@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Banking Management System</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> </h1>
 
 <p>
-Welcome to my project repository!<br/>
-I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student and C programmer from Tunisia 🇹🇳. This is a simple console-based banking system written in pure C, designed as a learning project.
+Welcome to my profile!<br/>
+I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student and C programmer from Tunisia 🇹🇳.
 </p>
 
 ### 📫 Connect With Me
@@ -17,19 +17,7 @@ I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student and C programmer
 
 ---
 
-### 🏦 Project Overview
 
-This Banking Management System supports basic banking operations via a terminal interface. It uses standard C file handling for data persistence.
-
-#### ✨ Features
-- Create new account
-- Display account details
-- Deposit money
-- Withdraw money
-- Delete account
-- Store data using file system
-
----
 
 ### 🛠️ Tech Stack
 
@@ -41,10 +29,4 @@ This Banking Management System supports basic banking operations via a terminal 
 </p>
 
 ---
-
-### 🚀 How to Run
-
-```bash
-gcc banking.c -o banking
-./banking
 
