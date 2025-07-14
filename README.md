@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my profile!<br/>
-I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student and C programmer from Tunisia 🇹🇳.
+I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student and programmer from Tunisia 🇹🇳.
 </p>
 
 ### 📫 Connect With Me
