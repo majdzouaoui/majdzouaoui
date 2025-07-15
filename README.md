@@ -2,21 +2,12 @@
 
 <p>
 Welcome to my profile!<br/>
-I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student , AI enthusiast and programmer from Tunisia 🇹🇳.
- ..I'm open to contribute and collaborate in any project , work or internship..
+I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student , self-learner , AI enthusiast and programmer from Tunisia 🇹🇳.
 </p>
-
-### 📫 Connect With Me
 <p>
-  <a href="https://github.com/majdzouaoui" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/majd-zouaoui-3ab5a5374" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<strong> ..I'm open to contribute and collaborate in any project , work or internship.. </strong>strong>
 </p>
 
----
 
 ### 🛠️ Tech Stack
 
@@ -30,3 +21,17 @@ I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student , AI enthusiast 
 </p>
 
 ---
+
+### 📫 Connect With Me
+<p>
+  <a href="https://github.com/majdzouaoui" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/majd-zouaoui-3ab5a5374" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
