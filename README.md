@@ -3,6 +3,7 @@
 <p>
 Welcome to my profile!<br/>
 I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student , AI enthusiast and programmer from Tunisia 🇹🇳.
+ ..I'm open to contribute and collaborate in any project , work or internship..
 </p>
 
 ### 📫 Connect With Me
