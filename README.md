@@ -5,7 +5,7 @@ Welcome to my profile!<br/>
 I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student , self-learner , AI enthusiast and programmer from Tunisia 🇹🇳.
 </p>
 <p>
-<strong> ..I'm open to contribute and collaborate in any project , internship or work..  </strong>
+<strong> ..I'm open to contribute and collaborate in any project , internship or any work..  </strong>
 </p>
 
 
