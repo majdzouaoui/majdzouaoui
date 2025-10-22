@@ -2,10 +2,10 @@
 
 <p>
 Welcome to my profile!<br/>
-I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student , self-learner , AI enthusiast and programmer from Tunisia 🇹🇳.
+I'm <strong>Majd Zouaoui</strong>, a BUSINESS COMPUTING student , self-learner , AI & Ml enthusiast and junior data scientist from Tunisia 🇹🇳.
 </p>
 <p>
-<strong> ..I'm open to contribute and collaborate in any project , internship or any work..  </strong>
+<strong> ..I'm open to contribute and collaborate in any project , internship or any type of work..  </strong>
 </p>
 
 
