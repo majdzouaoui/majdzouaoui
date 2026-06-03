@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my profile!<br/>
-I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS COMPUTING student , self-learner , AI & data enthusiast and future data scientist from Tunisia 🇹🇳.
+I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS COMPUTING student , self-learner , AI & data enthusiast and future data scientist/data analyst from Tunisia 🇹🇳.
 </p>
 <p>
 <strong> ..I'm avlaible to contribute and collaborate on projects , internships or any type of work opportunities..  </strong>
