@@ -12,6 +12,8 @@ I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS COMPUTING student , self-
 ### 🛠️ Tech Stack
 
 <p>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="ETL" src="https://img.shields.io/badge/ETL-8A2BE2?style=flat-square&logo=data&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
