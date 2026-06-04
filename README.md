@@ -16,10 +16,10 @@ I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS COMPUTING student , self-
   <img alt="BASE DE DONNÉES" src="https://img.shields.io/badge/BASE_DE_DONNÉES-316192?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
   <img alt="ETL" src="https://img.shields.io/badge/ETL-8A2BE2?style=flat-square&logo=data&logoColor=white" />
   <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="EXCEL" src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="TALEND" src="https://img.shields.io/badge/TALEND-FF6D70?style=flat-square&logo=talend&logoColor=white" />
   <img alt="POWER BI" src="https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
