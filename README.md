@@ -141,7 +141,7 @@ Key components:
 🔄 Non-Relational Databases & NoSQL<br/>
 🔄 Advanced SQL & Optimization<br/>
 🔄 apache airflow • dbt •  apache kafka<br/>
-🔄 Data story telling
+🔄 Data story telling<br/>
 ⏳ Machine Learning & Deep Learning for Data Science<br/>
 ⏳ advanced data enginnering
 
