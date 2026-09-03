@@ -126,30 +126,25 @@ Key components:
 
 ---
 
-
-## 🎯 Current Learning Path
+```md
+## 🗺️ Learning Roadmap
 
 ```text
-Business Intelligence
-        ↓
-Data Analytics
-        ↓
-Data Warehousing & ETL
-        ↓
-Data Engineering
-        ↓
-Machine Learning
-        ↓
-Data Science & AI
-```
-
-### Currently focusing on
-
-* Advanced SQL
-* ETL & Data Integration
-* Python for Data Analysis
-* Power BI & DAX
-* Data Engineering foundations
+✅ SQL & Relational Databases  
+✅ Python 
+✅ NumPy • Pandas • Matplotlib • Seaborn
+✅ Excel
+✅ Power BI • Power Query • DAX
+✅ Data Visualization & Dashboarding
+✅ Data Warehousing
+✅ Star Schema & Dimensional Modeling
+✅ ETL & Data Integration
+🔄 Cloud & Big Data
+🔄 Non-Relational Databases & NoSQL
+🔄 Advanced SQL & Optimization
+🔄 apache airflow • dbt •  apache kafka
+⏳ Machine Learning & Deep Learning for Data Science
+⏳ advanced data enginnering
 
 ---
 
