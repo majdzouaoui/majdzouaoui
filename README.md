@@ -142,6 +142,8 @@ Key components:
 🔄 Advanced SQL & Optimization<br/>
 🔄 apache airflow • dbt •  apache kafka<br/>
 🔄 Data story telling<br/>
+🔄 Snowflake<br/>
+🔄 Databricks<br/>
 ⏳ Machine Learning & Deep Learning for Data Science<br/>
 ⏳ advanced data enginnering
 
