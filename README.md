@@ -36,9 +36,13 @@ Internships • Projects • Collaborations • Open-source contributions • Wo
 
 <p>
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  &nbsp;
   <img alt="ETL" src="https://img.shields.io/badge/ETL-Data%20Integration-6A5ACD?style=flat-square"/>
+  &nbsp;
   <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=microsoft&logoColor=white"/>
+  &nbsp;
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  &nbsp;
   <img alt="Talend" src="https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white"/>
 </p>
 
