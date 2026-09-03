@@ -128,20 +128,20 @@ Key components:
 
 ## 🗺️ Learning Roadmap
 
-✅ SQL & Relational Databases  
-✅ Python 
-✅ NumPy • Pandas • Matplotlib • Seaborn
-✅ Excel
-✅ Power BI • Power Query • DAX
-✅ Data Visualization & Dashboarding
-✅ Data Warehousing
-✅ Star Schema & Dimensional Modeling
-✅ ETL & Data Integration
-🔄 Cloud & Big Data
-🔄 Non-Relational Databases & NoSQL
-🔄 Advanced SQL & Optimization
-🔄 apache airflow • dbt •  apache kafka
-⏳ Machine Learning & Deep Learning for Data Science
+✅ SQL & Relational Databases<br/>
+✅ Python<br/>
+✅ NumPy • Pandas • Matplotlib • Seaborn<br/>
+✅ Excel<br/>
+✅ Power BI • Power Query • DAX<br/>
+✅ Data Visualization & Dashboarding<br/>
+✅ Data Warehousing<br/>
+✅ Star Schema & Dimensional Modeling<br/>
+✅ ETL & Data Integration<br/>
+🔄 Cloud & Big Data<br/>
+🔄 Non-Relational Databases & NoSQL<br/>
+🔄 Advanced SQL & Optimization<br/>
+🔄 apache airflow • dbt •  apache kafka<br/>
+⏳ Machine Learning & Deep Learning for Data Science<br/>
 ⏳ advanced data enginnering
 
 ---
