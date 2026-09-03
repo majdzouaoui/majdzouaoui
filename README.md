@@ -126,7 +126,6 @@ Key components:
 
 ---
 
-```md
 ## 🗺️ Learning Roadmap
 
 ```text
