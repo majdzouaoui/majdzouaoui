@@ -13,7 +13,7 @@ I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS INTELLIGENCE student , se
 
 ⚙️ Tools
 <p>
-  <img alt="DATA BASES" src="https://img.shields.io/badge/DATA_BASES-316192?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
+  <img alt="DBMSs" src="https://img.shields.io/badge/DATA_BASES-316192?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
   <img alt="ETL" src="https://img.shields.io/badge/ETL-8A2BE2?style=flat-square&logo=data&logoColor=white" />
   <img alt="POWER BI" src="https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img alt="EXCEL" src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
