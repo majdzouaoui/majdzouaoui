@@ -138,11 +138,11 @@ Key components:
 ✅ Star Schema & Dimensional Modeling<br/>
 ✅ ETL & Data Integration<br/>
 🔄 Cloud & Big Data<br/>
+🔄 Advanced SQL & Optimization<br/>
 🔄 Non-Relational Databases & NoSQL<br/>
 🔄 Snowflake<br/>
 🔄 Databricks<br/>
 🔄 apache airflow • dbt •  apache kafka<br/>
-🔄 Advanced SQL & Optimization<br/>
 🔄 Data story telling<br/>
 ⏳ Machine Learning & Deep Learning for Data Science<br/>
 ⏳ advanced data enginnering
