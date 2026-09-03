@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my profile!<br/>
-I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS INTELLIGENCE student , self-learner , AI & data enthusiast and future data scientist/data analyst from Tunisia 🇹🇳.
+I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS INTELLIGENCE student , self-learner , data & AI enthusiast, data analyst and future data scientist/data engineer from Tunisia 🇹🇳.
 </p>
 <p>
 <strong> ..I'm avlaible to contribute and collaborate on projects , internships or any type of work opportunities..  </strong>
@@ -15,9 +15,9 @@ I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS INTELLIGENCE student , se
 <p>
   <img alt="DATA BASES" src="https://img.shields.io/badge/DATA_BASES-316192?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
   <img alt="ETL" src="https://img.shields.io/badge/ETL-8A2BE2?style=flat-square&logo=data&logoColor=white" />
+  <img alt="POWER BI" src="https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img alt="EXCEL" src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="TALEND" src="https://img.shields.io/badge/TALEND-FF6D70?style=flat-square&logo=talend&logoColor=white" />
-  <img alt="POWER BI" src="https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img alt="GIT" src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="LINUX" src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
@@ -29,10 +29,13 @@ I'm <strong>Majd Zouaoui</strong>, a 2nd year BUSINESS INTELLIGENCE student , se
   <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+</p>
+⚙️ web dev
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 
