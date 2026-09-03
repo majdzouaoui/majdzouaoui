@@ -34,7 +34,6 @@ Internships • Projects • Collaborations • Open-source contributions • Wo
 
 ### 📊 Business Intelligence & Data Analytics
 
-```html
 <p>
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img alt="ETL" src="https://img.shields.io/badge/ETL-6A5ACD?style=flat-square"/>
