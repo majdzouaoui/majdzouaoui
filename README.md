@@ -126,7 +126,7 @@ Key components:
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ Data Learning Roadmap
 
 ✅ SQL & Relational Databases<br/>
 ✅ Python<br/>
