@@ -128,7 +128,6 @@ Key components:
 
 ## 🗺️ Learning Roadmap
 
-```text
 ✅ SQL & Relational Databases  
 ✅ Python 
 ✅ NumPy • Pandas • Matplotlib • Seaborn
