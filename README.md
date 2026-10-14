@@ -126,6 +126,81 @@ Key components:
 
 🔗 View the project on GitHub : https://github.com/majdzouaoui/BI-ventes-Project
 
+📈 Retail Sales — Exploratory Data Analysis
+
+OIBSIP — Retail Sales EDA
+Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+
+Exploratory Data Analysis project focused on understanding retail sales performance and extracting actionable insights from transactional data.
+
+Key components:
+
+🧹 Cleaned and prepared the retail sales dataset
+
+📊 Performed descriptive and statistical analysis
+
+📅 Analyzed monthly and quarterly sales trends
+
+👥 Explored sales by age and gender
+
+🏆 Identified top-performing products and categories
+
+📈 Analyzed revenue and profitability patterns
+
+💡 Derived business insights and recommendations
+
+🔗 https://github.com/majdzouaoui/retail-sales-eda
+
+🧹 Cafe Sales — Data Cleaning
+
+
+
+📱 Google Play Store — Market Analysis & Sentiment Analysis
+
+OIBSIP — Google Play Store Analysis
+Python • Pandas • NumPy • Matplotlib • Seaborn • TextBlob • Jupyter Notebook
+
+Data analysis project exploring the Google Play Store ecosystem through app performance, ratings, installs, pricing, and user review sentiment.
+
+Key components:
+
+🧹 Cleaned and prepared Google Play Store app and review datasets
+
+⭐ Analyzed app ratings, reviews, installs, categories, and pricing
+
+💰 Compared free and paid applications
+
+📊 Identified trends across app categories
+
+💬 Performed sentiment analysis on user reviews
+
+😊 Found 64.04% positive, 21.29% negative, and 14.67% neutral reviews
+
+📈 Compared sentiment patterns across app categories
+
+🔗 https://github.com/majdzouaoui/google-play-store-analysis
+
+OIBSIP — Cleaning Data
+Python • Pandas • NumPy • Jupyter Notebook
+
+Data cleaning project using a deliberately messy cafe sales dataset to practice identifying, handling, and validating real-world data quality issues.
+
+Key components:
+
+🔍 Identified missing, invalid, and inconsistent values
+
+🧹 Cleaned categorical and numerical data
+
+🔄 Handled UNKNOWN, ERROR, and missing values
+
+📊 Validated data types and value ranges
+
+✅ Produced a cleaned dataset ready for analysis
+
+📝 Documented the complete cleaning process in Jupyter Notebook
+
+🔗 https://github.com/majdzouaoui/cafe-sales-data-cleaning
+
 ---
 
 ## 🗺️ Data Learning Roadmap
