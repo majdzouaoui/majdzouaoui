@@ -111,6 +111,8 @@ Internships • Projects • Collaborations • Open-source contributions • Wo
 📌 Featured Project
 
 
+
+
 📊 BI Sales Analysis & Data Warehouse
 
 BI-ventes-Project
@@ -127,6 +129,11 @@ Key components:
 🐘 Used PostgreSQL for Data Warehouse storage and SQL-based data management
 
 🔗 View the project on GitHub : https://github.com/majdzouaoui/BI-ventes-Project
+
+
+
+
+
 
 
 
@@ -155,7 +162,9 @@ Key components:
 
 🔗 https://github.com/majdzouaoui/retail-sales-eda
 
-🧹 Cafe Sales — Data Cleaning
+
+
+
 
 
 
@@ -188,6 +197,9 @@ Key components:
 
 
 
+
+
+
 📱 Google Play Store — Market Analysis & Sentiment Analysis
 
 OIBSIP — Google Play Store Analysis
@@ -216,7 +228,13 @@ Key components:
 
 
 
+
+
+
+
+
 OIBSIP — Cleaning Data
+
 Python • Pandas • NumPy • Jupyter Notebook
 
 Data cleaning project using a deliberately messy cafe sales dataset to practice identifying, handling, and validating real-world data quality issues.
