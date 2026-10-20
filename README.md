@@ -109,6 +109,8 @@ Internships • Projects • Collaborations • Open-source contributions • Wo
 ---
 
 📌 Featured Project
+
+
 📊 BI Sales Analysis & Data Warehouse
 
 BI-ventes-Project
@@ -125,6 +127,8 @@ Key components:
 🐘 Used PostgreSQL for Data Warehouse storage and SQL-based data management
 
 🔗 View the project on GitHub : https://github.com/majdzouaoui/BI-ventes-Project
+
+
 
 📈 Retail Sales — Exploratory Data Analysis
 
@@ -154,6 +158,8 @@ Key components:
 🧹 Cafe Sales — Data Cleaning
 
 
+
+
 🤖 AI Coding Agent
 
 Boot.dev — AI Agent Project  
@@ -180,6 +186,8 @@ Key components:
 🔗 https://github.com/majdzouaoui/ai-agent
 
 
+
+
 📱 Google Play Store — Market Analysis & Sentiment Analysis
 
 OIBSIP — Google Play Store Analysis
@@ -204,6 +212,8 @@ Key components:
 📈 Compared sentiment patterns across app categories
 
 🔗 https://github.com/majdzouaoui/google-play-store-analysis
+
+
 
 
 OIBSIP — Cleaning Data
