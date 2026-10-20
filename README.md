@@ -154,6 +154,31 @@ Key components:
 🧹 Cafe Sales — Data Cleaning
 
 
+🤖 AI Coding Agent
+
+Boot.dev — AI Agent Project  
+Python • OpenAI SDK • OpenRouter API • Function Calling • `uv`
+
+AI-powered coding agent built with Python that uses an LLM and function calling to inspect files, read and write code, execute Python scripts, and solve coding tasks iteratively.
+
+Key components:
+
+🧠 Integrated an LLM using the OpenRouter API
+
+🛠️ Implemented function calling to execute tools based on user requests
+
+📂 Built tools to list files and directories and read file contents
+
+✍️ Implemented file-writing functionality
+
+🐍 Enabled Python script execution through the agent
+
+🔄 Developed an iterative agent loop to process tool calls and generate responses
+
+🔒 Added working-directory restrictions to help prevent unauthorized file access
+
+🔗 https://github.com/majdzouaoui/ai-agent
+
 
 📱 Google Play Store — Market Analysis & Sentiment Analysis
 
@@ -179,6 +204,7 @@ Key components:
 📈 Compared sentiment patterns across app categories
 
 🔗 https://github.com/majdzouaoui/google-play-store-analysis
+
 
 OIBSIP — Cleaning Data
 Python • Pandas • NumPy • Jupyter Notebook
