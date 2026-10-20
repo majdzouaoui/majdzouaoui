@@ -108,12 +108,12 @@ Internships • Projects • Collaborations • Open-source contributions • Wo
 
 ---
 
-📌 Featured Project
+## 📌 Featured Project
 
 
 
 
-📊 BI Sales Analysis & Data Warehouse
+### 📊 BI Sales Analysis & Data Warehouse
 
 BI-ventes-Project
 PostgreSQL • Power BI • SQL • Star Schema • Talend • R
@@ -137,7 +137,7 @@ Key components:
 
 
 
-📈 Retail Sales — Exploratory Data Analysis
+### 📈 Retail Sales — Exploratory Data Analysis
 
 OIBSIP — Retail Sales EDA
 Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
@@ -169,7 +169,7 @@ Key components:
 
 
 
-🤖 AI Coding Agent
+### 🤖 AI Coding Agent
 
 Boot.dev — AI Agent Project  
 Python • OpenAI SDK • OpenRouter API • Function Calling • `uv`
@@ -200,7 +200,7 @@ Key components:
 
 
 
-📱 Google Play Store — Market Analysis & Sentiment Analysis
+### 📱 Google Play Store — Market Analysis & Sentiment Analysis
 
 OIBSIP — Google Play Store Analysis
 Python • Pandas • NumPy • Matplotlib • Seaborn • TextBlob • Jupyter Notebook
@@ -233,7 +233,7 @@ Key components:
 
 
 
-OIBSIP — Cleaning Data
+### OIBSIP — Cleaning Data
 
 Python • Pandas • NumPy • Jupyter Notebook
 
