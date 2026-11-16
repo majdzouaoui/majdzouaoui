@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Business Intelligence Student | Data Analyst | Aspiring Data Scientist & Data Engineer
+  Business Intelligence Student | Data Analytics | Aspiring Data Scientist & Data Engineer
 </h3>
 
 <p align="center">
